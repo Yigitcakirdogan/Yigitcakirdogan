@@ -3,6 +3,7 @@
 ![Yiğit Çakırdoğan — Embedded Systems & Functional Safety Engineer](./assets/hero-banner.svg)
 
 [![Interactive Portfolio & Live Simulators](https://img.shields.io/badge/Live%20Portal%20%26%20Simulators-yigitcakirdogan.github.io-38bdf8?style=for-the-badge&logo=github)](https://yigitcakirdogan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yi%C4%9Fit%20%C3%87ak%C4%B1rdo%C4%9Fan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigitcakirdogan)
 [![Safety](https://img.shields.io/badge/ISO%2026262-ASIL--D%20%7C%20MISRA%20C%3A2012-ef4444?style=for-the-badge&logo=c)](https://github.com/Yigitcakirdogan/iso26262-misra-c-safety-library)
 [![AUTOSAR](https://img.shields.io/badge/AUTOSAR%20Classic-MCAL%20%E2%80%A2%20BSW%20%E2%80%A2%20RTE%20%E2%80%A2%20ASW-10b981?style=for-the-badge)](https://github.com/Yigitcakirdogan/autosar-classic-bsw-rte-pedal-voter)
 
